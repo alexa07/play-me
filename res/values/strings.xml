@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Playme Now with click</string>
+    <string name="app_name">Playme</string>
+    <string name="btn_touch">touch me babe</string>
+
+</resources>
